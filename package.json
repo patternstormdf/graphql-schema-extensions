@@ -1,0 +1,19 @@
+{
+  "name": "graphql-schema-extensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patternstormdf/graphql-schema-extensions.git"
+  },
+  "author": "Claudi Paniagua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patternstormdf/graphql-schema-extensions/issues"
+  },
+  "homepage": "https://github.com/patternstormdf/graphql-schema-extensions#readme"
+}
